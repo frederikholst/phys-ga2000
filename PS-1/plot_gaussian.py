@@ -15,8 +15,7 @@ for i in x_values:
     y_values=np.append(y_values,Gaussian(i))
 
 plt.plot(x_values,y_values)
-
 plt.title("Gaussian Distribution")
 plt.ylabel("y")
 plt.xlabel("x")
-plt.savefig("gaussian.png")
+plt.savefig("phys-ga2000\\PS-1\\gaussian.png")
