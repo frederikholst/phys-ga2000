@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1725639174.90221 "c:/Users/frede/Python/Comp Physics/phys-ga2000/PS-1/PS-1LaTeX Excercise.tex" "PS-1LaTeX Excercise.pdf" "PS-1LaTeX Excercise" 1725639176.76867 0
+["pdflatex"] 1725640840.57913 "c:/Users/frede/Python/Comp Physics/phys-ga2000/PS-1/PS-1LaTeX Excercise.tex" "PS-1LaTeX Excercise.pdf" "PS-1LaTeX Excercise" 1725640842.47727 0
   "C:/Users/frede/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1725489008 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/frede/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1725488894 24265332 9e05ecc31c129079d909768ce42a7ddb ""
   "C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -59,11 +59,11 @@
   "C:/Users/frede/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/frede/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/frede/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "PS-1LaTeX Excercise.aux" 1725639176 614 f014a1f3bc5feca4d6b0e586aee217e4 "pdflatex"
-  "PS-1LaTeX Excercise.out" 1725639176 156 e4012be3325385a582a0ff7305cda696 "pdflatex"
-  "PS-1LaTeX Excercise.tex" 1725639152 1451 f34f55bf5900798eff0299f4c2616c8c ""
-  "c:/Users/frede/Python/Comp Physics/phys-ga2000/PS-1/PS-1LaTeX Excercise.tex" 1725639152 1451 f34f55bf5900798eff0299f4c2616c8c ""
-  "gaussian.png" 1725639171 25007 f7b5b22eb7e46a4a6d63f7a821975a7c ""
+  "PS-1LaTeX Excercise.aux" 1725640842 614 f014a1f3bc5feca4d6b0e586aee217e4 "pdflatex"
+  "PS-1LaTeX Excercise.out" 1725640842 156 e4012be3325385a582a0ff7305cda696 "pdflatex"
+  "PS-1LaTeX Excercise.tex" 1725640837 1451 919d9a7ce7ed59ac07f4aa00c694b612 ""
+  "c:/Users/frede/Python/Comp Physics/phys-ga2000/PS-1/PS-1LaTeX Excercise.tex" 1725640837 1451 919d9a7ce7ed59ac07f4aa00c694b612 ""
+  "gaussian.png" 1725640502 25007 f7b5b22eb7e46a4a6d63f7a821975a7c ""
   (generated)
   "PS-1LaTeX Excercise.aux"
   "PS-1LaTeX Excercise.log"
