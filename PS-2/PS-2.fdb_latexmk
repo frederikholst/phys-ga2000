@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1726428510.86829 "c:/Users/frede/Python/Comp Physics/phys-ga2000/PS-2/PS-2.tex" "PS-2.pdf" "PS-2" 1726428512.70938 0
+["pdflatex"] 1726428810.0625 "c:/Users/frede/Python/Comp Physics/phys-ga2000/PS-2/PS-2.tex" "PS-2.pdf" "PS-2" 1726428811.82671 0
   "C:/Users/frede/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1725489008 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/frede/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1725488894 24265332 9e05ecc31c129079d909768ce42a7ddb ""
   "C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -64,10 +64,10 @@
   "C:/Users/frede/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/frede/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/frede/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "PS-2.aux" 1726428512 1450 3908ebe91a3f8bccbb641f40a4e97f16 "pdflatex"
-  "PS-2.out" 1726428512 609 5bf54ad4e4fd3566f04a1085617153a7 "pdflatex"
-  "PS-2.tex" 1726428159 3395 e95221918acc761cd6be95d8d8657b2f ""
-  "c:/Users/frede/Python/Comp Physics/phys-ga2000/PS-2/PS-2.tex" 1726428159 3395 e95221918acc761cd6be95d8d8657b2f ""
+  "PS-2.aux" 1726428811 1450 52ede1c5b01b55841f8f06dcb2d21b03 "pdflatex"
+  "PS-2.out" 1726428811 609 5bf54ad4e4fd3566f04a1085617153a7 "pdflatex"
+  "PS-2.tex" 1726428806 3395 c7d758735a3428a5afff9a42381cc4f4 ""
+  "c:/Users/frede/Python/Comp Physics/phys-ga2000/PS-2/PS-2.tex" 1726428806 3395 c7d758735a3428a5afff9a42381cc4f4 ""
   "fractal.png" 1726426828 73270 537ad15e03bb3a834472618a1163bb85 ""
   (generated)
   "PS-2.aux"

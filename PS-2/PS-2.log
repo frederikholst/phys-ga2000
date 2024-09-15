@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.5)  15 SEP 2024 15:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.5)  15 SEP 2024 15:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -216,14 +216,16 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: fractal.png Graphic file (type png)
 <use fractal.png>
 Package pdftex.def Info: fractal.png  used on input line 59.
-(pdftex.def)             Requested size: 328.82706pt x 328.82901pt.
+(pdftex.def)             Requested size: 469.75499pt x 469.76045pt.
 
 
 [1
 
 {C:/Users/frede/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 
-[2 <./fractal.png>] (PS-2.aux)
+[2 <./fractal.png>]
+
+[3] (PS-2.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
@@ -232,17 +234,17 @@ Package rerunfilecheck Info: File `PS-2.out' has not changed.
 (rerunfilecheck)             Checksum: 5BF54AD4E4FD3566F04A1085617153A7;609.
  ) 
 Here is how much of TeX's memory you used:
- 8800 strings out of 473899
- 137306 string characters out of 5726501
+ 8801 strings out of 473899
+ 137312 string characters out of 5726501
  1936960 words of memory out of 5000000
  31593 multiletter control sequences out of 15000+600000
  562625 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,79p,483b,462s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on PS-2.pdf (2 pages, 163011 bytes).
+Output written on PS-2.pdf (3 pages, 163580 bytes).
 PDF statistics:
- 82 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 500000)
+ 86 PDF objects out of 1000 (max. 8388607)
+ 10 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
