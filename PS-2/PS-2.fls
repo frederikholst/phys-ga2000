@@ -1,6 +1,6 @@
-PWD c:\Users\frede\Python\Comp Physics\phys-ga2000\PS-1\PS-1
+PWD c:\Users\frede\Python\Comp Physics\phys-ga2000\PS-2
 INPUT C:\Users\frede\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\frede\Python\Comp Physics\phys-ga2000\PS-1\PS-1\PS-2.tex
+INPUT c:\Users\frede\Python\Comp Physics\phys-ga2000\PS-2\PS-2.tex
 OUTPUT PS-2.log
 INPUT C:\Users\frede\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\frede\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -117,7 +117,6 @@ INPUT C:\Users\frede\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\frede\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\frede\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
 INPUT C:\Users\frede\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
-INPUT C:\Users\frede\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1095.tfm
 INPUT .\fractal.png
 INPUT .\fractal.png
 INPUT .\fractal.png
@@ -129,8 +128,6 @@ INPUT C:\Users\frede\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT PS-2.aux
 INPUT .\PS-2.out
 INPUT .\PS-2.out
-INPUT C:\Users\frede\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
-INPUT C:\Users\frede\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
 INPUT C:\Users\frede\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\frede\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\frede\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
