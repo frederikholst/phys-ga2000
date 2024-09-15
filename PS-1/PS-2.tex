@@ -57,7 +57,7 @@ The Madelung constant is computed to be 1.742 (compared to the actual value, 1.7
 \begin{figure}[h!]
     \centering
     \includegraphics[width=0.7\textwidth]{fractal.png}
-    \caption{The Mandelbrot set with maximum iteration number of 100. Heightmap is set so that points that are larger than two, take on the number of iterations before it exceeded this threshold. Points that never exceed the threshold will take the value 101.   }
+    \caption{The Mandelbrot set with maximum iteration number of 100. Heightmap is set so that points that are larger than two, take on the number of iterations before it exceeded this threshold. Points that never exceed the threshold will take the value 101. }
     \label{fig:your_label}
 \end{figure}
 
@@ -69,10 +69,11 @@ $x_2=-9.99999999999 \times 10^{5}$
 
 And for solver 2 we have: 
 $x_1=-1.000000000001 \times 10^{-6}$
+
 $x_2=-1.0000105755125057\times10^{6}$
 
 
-From these results we see that the two solvers have different precision for the two different roots. This is due to the increased numerical error when subtracting large, similar numbers. For a better solver, we choose for each root the solver that doesn't deal with subtraction with two numbers have very similar values. After running the test file, we pass both tests.
+From these results we see that the two solvers have different precision for the two different roots. This is due to the increased numerical error when subtracting large, similar numbers. For a better solver, we choose for each root the solver that doesn't deal with subtraction with two numbers that have very similar values. After running the test file, we pass both tests.
 
 
 \end{document}
