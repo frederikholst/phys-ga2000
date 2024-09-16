@@ -23,12 +23,11 @@ for i in np.arange(len(axis_arr)):
 
 plt.figure(figsize=(10,10))
 plt.imshow(plane,cmap=("jet"),extent=[-2, 2, -2, 2])
-plt.savefig("fractal.png")
+
 plt.xlabel("x")
 plt.ylabel("y")
 
 plt.colorbar()
 plt.savefig("fractal.png")
-#image=im.fromarray(plane)
-#image.save('fractals.png') 
+
 

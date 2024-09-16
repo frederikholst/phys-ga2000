@@ -72,8 +72,17 @@ $x_1=-1.000000000001 \times 10^{-6}$
 
 $x_2=-1.0000105755125057\times10^{6}$
 
+Where the formular for solver 2 is derived from the standard formular:
 
-From these results we see that the two solvers have different precision for the two different roots. This is due to the increased numerical error when subtracting large, similar numbers. For a better solver, we choose for each root the solver that doesn't deal with subtraction with two numbers that have very similar values. After running the test file, we pass both tests.
+$$x=\frac{-b \pm \sqrt{b^2-4ac}}{2a}$$
+$$x=\frac{(-b \pm \sqrt{b^2-4ac})}{2a}\frac{(-b\mp\sqrt{b^2-4ac})}{(-b\mp\sqrt{b^2-4ac})}$$
+
+$$x=\frac{b^2-b^2+4ac}{2a(-b\mp\sqrt{b^2-4ac})}$$
+$$x=\frac{2c}{-b \mp \sqrt{b^2-4ac}}$$
+
+
+
+From these results we see that the two solvers have different precision for the two roots. This is due to the increased numerical error when subtracting large, similar numbers. Here, the error of the numbers might be on the order of magnitude of the value of subtraction, leading to significantly increased error on the result. For a better solver, we choose for each root the solver that doesn't deal with subtraction with two numbers that have very similar values. After running the test file, we pass both tests.
 
 
 \end{document}
