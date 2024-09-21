@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1726845648.3438 "c:/Users/frede/Python/Comp Physics/phys-ga2000/PS-3/PS-3.tex" "PS-3.pdf" "PS-3" 1726845649.99225 0
+["pdflatex"] 1726940031.16651 "c:/Users/frede/Python/Comp Physics/phys-ga2000/PS-3/PS-3.tex" "PS-3.pdf" "PS-3" 1726940034.47787 0
   "C:/Users/frede/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1726801051 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/frede/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1725488894 24265332 9e05ecc31c129079d909768ce42a7ddb ""
   "C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -76,10 +76,10 @@
   "C:/Users/frede/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/frede/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "Decay.png" 1726779385 40157 4aa9f5dc81ec65c92f47c2c89f8729b7 ""
-  "PS-3.aux" 1726845649 3580 eaa87ad218631fd3fc1b1f32d43510d3 "pdflatex"
-  "PS-3.out" 1726845649 613 fea1c0beb903a60a3c84e9497973834f "pdflatex"
-  "PS-3.tex" 1726845647 4205 379536469abeb5eb8535fadf7910072f ""
-  "c:/Users/frede/Python/Comp Physics/phys-ga2000/PS-3/PS-3.tex" 1726845647 4205 379536469abeb5eb8535fadf7910072f ""
+  "PS-3.aux" 1726940034 3580 eaa87ad218631fd3fc1b1f32d43510d3 "pdflatex"
+  "PS-3.out" 1726940034 613 fea1c0beb903a60a3c84e9497973834f "pdflatex"
+  "PS-3.tex" 1726940026 4261 5f890bf2c62061f8116c8feb301bfb86 ""
+  "c:/Users/frede/Python/Comp Physics/phys-ga2000/PS-3/PS-3.tex" 1726940026 4261 5f890bf2c62061f8116c8feb301bfb86 ""
   "decay2.png" 1726796173 22482 c39bb0030a61c788e7df7d19f11808a8 ""
   "distribution_feat.png" 1726845420 57892 280de7045ff9c646b30fa0a9d85201ce ""
   "gaus.png" 1726845420 65675 eaea7ec24053167d05850c70abbd888e ""
