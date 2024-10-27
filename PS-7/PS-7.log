@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.5)  15 OCT 2024 11:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.5)  27 OCT 2024 15:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/frede/Python/Comp Physics/phys-ga2000/PS-6/PS-6.tex"
-(c:/Users/frede/Python/Comp Physics/phys-ga2000/PS-6/PS-6.tex
+**"c:/Users/frede/Python/Comp Physics/phys-ga2000/PS-7/PS-7.tex"
+(c:/Users/frede/Python/Comp Physics/phys-ga2000/PS-7/PS-7.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
 (C:\Users\frede\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -223,8 +223,8 @@ LaTeX Info: Redefining \] on input line 2954.
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count293
 \l__pdf_internal_box=\box54
-) (PS-6.aux)
-\openout1 = `PS-6.aux'.
+) (PS-7.aux)
+\openout1 = `PS-7.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
@@ -270,86 +270,36 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring OFF on input line 23.
- (PS-6.out) (PS-6.out)
+ (PS-7.out) (PS-7.out)
 \@outlinefile=\write3
-\openout3 = `PS-6.out'.
+\openout3 = `PS-7.out'.
 
-<Galaxies.png, id=40, 722.7pt x 505.89pt>
-File: Galaxies.png Graphic file (type png)
-<use Galaxies.png>
-Package pdftex.def Info: Galaxies.png  used on input line 33.
-(pdftex.def)             Requested size: 328.82706pt x 230.1803pt.
-<Galaxies_norm.png, id=43, 722.7pt x 505.89pt>
-File: Galaxies_norm.png Graphic file (type png)
-<use Galaxies_norm.png>
-Package pdftex.def Info: Galaxies_norm.png  used on input line 42.
-(pdftex.def)             Requested size: 328.82706pt x 230.1803pt.
-<Galaxies_norm_mean.png, id=46, 722.7pt x 505.89pt>
-File: Galaxies_norm_mean.png Graphic file (type png)
-<use Galaxies_norm_mean.png>
-Package pdftex.def Info: Galaxies_norm_mean.png  used on input line 51.
-(pdftex.def)             Requested size: 328.82706pt x 230.1803pt.
 
 
 [1
 
-{C:/Users/frede/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Galaxies.png>]
-<eigen.png, id=60, 722.7pt x 505.89pt>
-File: eigen.png Graphic file (type png)
-<use eigen.png>
-Package pdftex.def Info: eigen.png  used on input line 61.
-(pdftex.def)             Requested size: 328.82706pt x 230.1803pt.
-<eigen_residuals.png, id=62, 722.7pt x 505.89pt>
-File: eigen_residuals.png Graphic file (type png)
-<use eigen_residuals.png>
-Package pdftex.def Info: eigen_residuals.png  used on input line 74.
-(pdftex.def)             Requested size: 328.82706pt x 230.1803pt.
+{C:/Users/frede/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 
-
-[2 <./Galaxies_norm.png>]
-
-[3 <./Galaxies_norm_mean.png> <./eigen.png>]
-<PCA.png, id=81, 722.7pt x 433.62pt>
-File: PCA.png Graphic file (type png)
-<use PCA.png>
-Package pdftex.def Info: PCA.png  used on input line 90.
-(pdftex.def)             Requested size: 328.82706pt x 197.29741pt.
-<PCA_C.png, id=83, 722.7pt x 433.62pt>
-File: PCA_C.png Graphic file (type png)
-<use PCA_C.png>
-Package pdftex.def Info: PCA_C.png  used on input line 99.
-(pdftex.def)             Requested size: 328.82706pt x 197.29741pt.
-<Res_N.png, id=85, 722.7pt x 433.62pt>
-File: Res_N.png Graphic file (type png)
-<use Res_N.png>
-Package pdftex.def Info: Res_N.png  used on input line 108.
-(pdftex.def)             Requested size: 328.82706pt x 197.29741pt.
-
-
-[4 <./eigen_residuals.png>]
-
-[5 <./PCA.png> <./PCA_C.png>]
-
-[6 <./Res_N.png>] (PS-6.aux)
+[2] (PS-7.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
  ***********
-Package rerunfilecheck Info: File `PS-6.out' has not changed.
-(rerunfilecheck)             Checksum: C94FA8F4FDCDFF9CE96ACBA9923705B6;684.
+Package rerunfilecheck Info: File `PS-7.out' has not changed.
+(rerunfilecheck)             Checksum: 2A8B06BFA97AD959A9534F1ABFE866C4;303.
  ) 
 Here is how much of TeX's memory you used:
- 9604 strings out of 473899
- 148517 string characters out of 5726501
- 1932960 words of memory out of 5000000
- 32360 multiletter control sequences out of 15000+600000
+ 9511 strings out of 473899
+ 147069 string characters out of 5726501
+ 1938960 words of memory out of 5000000
+ 32286 multiletter control sequences out of 15000+600000
  563523 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,7n,79p,450b,449s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,721b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on PS-6.pdf (6 pages, 453483 bytes).
+Output written on PS-7.pdf (2 pages, 117747 bytes).
 PDF statistics:
- 151 PDF objects out of 1000 (max. 8388607)
- 24 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 69 PDF objects out of 1000 (max. 8388607)
+ 5 named destinations out of 1000 (max. 500000)
+ 17 words of extra memory for PDF output out of 10000 (max. 10000000)
 

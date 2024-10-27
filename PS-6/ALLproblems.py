@@ -11,7 +11,7 @@ flux = hdu_list['FLUX'].data
 logwave=10**(logwave)
 
 
-if False:
+if True:
     flux=flux[:500] # Due to memory expensive computation, a subset of the samples is used during testing.    
 
 
@@ -181,7 +181,7 @@ for Nc in PCA_Nc:
         sq_res+=np.square(flux[0][i]-flux_reconstructed[0][i])
     sq_residuals.append(sq_res)
     if Nc==20:
-        print("Nc=20: ",np.real(sq_residuals[-1]))
+        print("Nc=20: ",np.sqrt(np.real(sq_residuals[-1]))/len(flux[0]))
 
 
 

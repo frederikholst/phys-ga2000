@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1729005107.4184 "c:/Users/frede/Python/Comp Physics/phys-ga2000/PS-6/PS-6.tex" "PS-6.pdf" "PS-6" 1729005110.52466 0
+["pdflatex"] 1730056281.01144 "c:/Users/frede/Python/Comp Physics/phys-ga2000/PS-7/PS-7.tex" "PS-7.pdf" "PS-7" 1730056281.84384 0
   "C:/Users/frede/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1726801051 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/frede/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1725488894 24265332 9e05ecc31c129079d909768ce42a7ddb ""
   "C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -74,21 +74,13 @@
   "C:/Users/frede/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/frede/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/frede/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Galaxies.png" 1729004995 79182 94eba682b5db7f8276428246945e4788 ""
-  "Galaxies_norm.png" 1729004995 59011 b78ea86f01c9759c6bb779ad3ec0e725 ""
-  "Galaxies_norm_mean.png" 1729004996 62470 54bcb7e1e99b87768f3a72af5435f12a ""
-  "PCA.png" 1729005105 61366 a619c0ddd29bdbfa40d98a5ee565bbc3 ""
-  "PCA_C.png" 1729005106 47779 48222f5c55ea2f8c0a41c498814bfa90 ""
-  "PS-6.aux" 1729005110 3823 cce604d45dbf9d9bc2014e33042424e6 "pdflatex"
-  "PS-6.out" 1729005110 684 c94fa8f4fdcdff9ce96acba9923705b6 "pdflatex"
-  "PS-6.tex" 1728921948 5093 0392b31a7b93a906c5d0c98bafbcaa96 ""
-  "Res_N.png" 1729005106 21410 e5b4919240bdc5594fff8b6a0fb7aa4c ""
-  "c:/Users/frede/Python/Comp Physics/phys-ga2000/PS-6/PS-6.tex" 1728921948 5093 0392b31a7b93a906c5d0c98bafbcaa96 ""
-  "eigen.png" 1729005046 69673 179211a14eb03394a5d8ad76fc313e9a ""
-  "eigen_residuals.png" 1729005050 62221 3038ea90b84becafef27ce470b2191f6 ""
+  "PS-7.aux" 1730056281 414 764175c2ad47aeca53b8a5d5f1e8dda5 "pdflatex"
+  "PS-7.out" 1730056281 303 2a8b06bfa97ad959a9534f1abfe866c4 "pdflatex"
+  "PS-7.tex" 1730056280 2689 445582edc45319bfedbc661c3e7d737f ""
+  "c:/Users/frede/Python/Comp Physics/phys-ga2000/PS-7/PS-7.tex" 1730056280 2689 445582edc45319bfedbc661c3e7d737f ""
   (generated)
-  "PS-6.aux"
-  "PS-6.log"
-  "PS-6.out"
-  "PS-6.pdf"
+  "PS-7.aux"
+  "PS-7.log"
+  "PS-7.out"
+  "PS-7.pdf"
   (rewritten before read)
