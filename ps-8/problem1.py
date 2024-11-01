@@ -19,7 +19,12 @@ def negloglike(params, x, data):
     nll = lnpi.sum()
     return -nll
 
-pst = np.array([-5, 0.1])
+def like(params,ages,answers):
+    beta0,beta1=params
+    return np.prod(log_model(ages,beta0,beta1)**answers*(1-log_model(ages,beta0,beta1))**(1-answers))
+
+
+pst = np.array([-5.0, 0.1])
 
 r = optimize.minimize(negloglike, pst, args=(data[0],data[1]), method='BFGS', tol=1e-6)
 
@@ -47,7 +52,7 @@ cov_matrix = np.linalg.inv(hess_matrix)
 
 
 standard_errors = np.sqrt(np.diag(cov_matrix))
-
+likelihood=like(r.x,data[0],data[1])
 
 print("Estimates for parameters beta0 and beta1:")
 print(f"beta0: {r.x[0]}, beta1: {r.x[1]}")
@@ -56,3 +61,4 @@ print(cov_matrix)
 print("\nStandard Errors:")
 print(f"Standard error for beta0: {standard_errors[0]}")
 print(f"Standard error for beta1: {standard_errors[1]}")
+print(f"Maximum Likelihood is: {likelihood}")

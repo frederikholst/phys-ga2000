@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.5)  1 NOV 2024 12:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.5)  1 NOV 2024 12:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -279,35 +279,35 @@ File: fit.png Graphic file (type png)
 <use fit.png>
 Package pdftex.def Info: fit.png  used on input line 37.
 (pdftex.def)             Requested size: 328.82706pt x 246.63135pt.
-<pianotrumpet1.png, id=19, 462.528pt x 346.896pt>
-File: pianotrumpet1.png Graphic file (type png)
-<use pianotrumpet1.png>
-Package pdftex.def Info: pianotrumpet1.png  used on input line 62.
-(pdftex.def)             Requested size: 328.82706pt x 246.63135pt.
 
 
 [1
 
 {C:/Users/frede/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+<pianotrumpet1.png, id=36, 462.528pt x 346.896pt>
+File: pianotrumpet1.png Graphic file (type png)
+<use pianotrumpet1.png>
+Package pdftex.def Info: pianotrumpet1.png  used on input line 65.
+(pdftex.def)             Requested size: 328.82706pt x 246.63135pt.
 <C5.png, id=38, 462.528pt x 346.896pt>
 File: C5.png Graphic file (type png)
 <use C5.png>
-Package pdftex.def Info: C5.png  used on input line 73.
+Package pdftex.def Info: C5.png  used on input line 76.
 (pdftex.def)             Requested size: 328.82706pt x 246.63135pt.
 <dow.png, id=40, 462.528pt x 346.896pt>
 File: dow.png Graphic file (type png)
 <use dow.png>
-Package pdftex.def Info: dow.png  used on input line 84.
+Package pdftex.def Info: dow.png  used on input line 87.
 (pdftex.def)             Requested size: 328.82706pt x 246.63135pt.
 <high_cut.png, id=42, 462.528pt x 346.896pt>
 File: high_cut.png Graphic file (type png)
 <use high_cut.png>
-Package pdftex.def Info: high_cut.png  used on input line 96.
+Package pdftex.def Info: high_cut.png  used on input line 99.
 (pdftex.def)             Requested size: 328.82706pt x 246.63135pt.
 <v_high_cut.png, id=44, 462.528pt x 346.896pt>
 File: v_high_cut.png Graphic file (type png)
 <use v_high_cut.png>
-Package pdftex.def Info: v_high_cut.png  used on input line 104.
+Package pdftex.def Info: v_high_cut.png  used on input line 107.
 (pdftex.def)             Requested size: 328.82706pt x 246.63135pt.
 
 
@@ -336,7 +336,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,7n,79p,477b,447s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/frede/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on PS-8.pdf (6 pages, 255289 bytes).
+Output written on PS-8.pdf (6 pages, 255593 bytes).
 PDF statistics:
  127 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)

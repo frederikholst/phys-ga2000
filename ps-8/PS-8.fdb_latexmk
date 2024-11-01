@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1730477482.1295 "c:/Users/frede/Python/Comp Physics/phys-ga2000/ps-8/PS-8.tex" "PS-8.pdf" "PS-8" 1730477484.35319 0
+["pdflatex"] 1730478321.69166 "c:/Users/frede/Python/Comp Physics/phys-ga2000/ps-8/PS-8.tex" "PS-8.pdf" "PS-8" 1730478324.18834 0
   "C5.png" 1730410305 23453 732134cc6277e9edc671f98d62af0789 ""
   "C:/Users/frede/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1726801051 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/frede/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1725488894 24265332 9e05ecc31c129079d909768ce42a7ddb ""
@@ -77,12 +77,12 @@
   "C:/Users/frede/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/frede/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/frede/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "PS-8.aux" 1730477483 3091 41818dcf28e22ebfb379480d126b6743 "pdflatex"
-  "PS-8.out" 1730477483 541 818af92410e38c83ce4805359afd8410 "pdflatex"
-  "PS-8.tex" 1730477480 4359 8f7915999ce2288f0ad0dc199c4a3a4d ""
-  "c:/Users/frede/Python/Comp Physics/phys-ga2000/ps-8/PS-8.tex" 1730477480 4359 8f7915999ce2288f0ad0dc199c4a3a4d ""
+  "PS-8.aux" 1730478323 3091 41818dcf28e22ebfb379480d126b6743 "pdflatex"
+  "PS-8.out" 1730478323 541 818af92410e38c83ce4805359afd8410 "pdflatex"
+  "PS-8.tex" 1730478320 4438 9e22c659f778cd502ea0bae9424422d0 ""
+  "c:/Users/frede/Python/Comp Physics/phys-ga2000/ps-8/PS-8.tex" 1730478320 4438 9e22c659f778cd502ea0bae9424422d0 ""
   "dow.png" 1730410825 39915 ea4992b9ddaa7883fbbd0a19239c3266 ""
-  "fit.png" 1730477009 22611 202cd839f35584e2b355d3ca1f493e58 ""
+  "fit.png" 1730478193 22611 202cd839f35584e2b355d3ca1f493e58 ""
   "high_cut.png" 1730410826 34867 9b48c13ed6430115e1b1e49493907b3c ""
   "pianotrumpet1.png" 1730410302 22098 947e4b094f2229d0be69ec2e37359678 ""
   "v_high_cut.png" 1730410826 27788 7b82465f5080cedf829f012eca39f67a ""
