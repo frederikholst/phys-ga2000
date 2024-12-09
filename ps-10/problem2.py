@@ -43,7 +43,7 @@ plt.legend()
 plt.xlim(0.4*Len,0.7*Len)
 plt.savefig("Spectral Method")
 plt.clf()
-"""
+
 ## We now setup the animation
 
 # Set up the figure and axis
@@ -73,4 +73,4 @@ def update(frame):
 anim = FuncAnimation(fig, update, frames=len(psi_list), init_func=init, blit=True)
 
 anim.save("spectral_animation.mp4", fps=10)
-"""
+
